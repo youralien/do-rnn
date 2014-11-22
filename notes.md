@@ -39,3 +39,9 @@ starting with notes from visiting the indico guys (thanks madison and alec!)
 * scaling up software infrastructure
 * general ML tools!
 * transition towards a ML shop as opposed to be a software eng. 
+
+### 11/22/2014 questions!
+* weights vs. activity vectors
+* n^2 weights and 2^n activity vectors?
+* testing our understanding of the toy example
+* how to feed in different features (i.e. nodes for bikeshare layers)
