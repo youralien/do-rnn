@@ -4,7 +4,8 @@ starting with notes from visiting the indico guys (thanks madison and alec!)
 * reddit text
 * adzuna kaggle dataset
 
-### first try doing simple models
+###theano-ing 
+* first try doing simple models
 * then regular neural network from scratch
 * try not to reference alec's stuff while doing this
 
