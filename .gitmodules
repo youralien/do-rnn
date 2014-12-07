@@ -1,0 +1,3 @@
+[submodule "minet"]
+	path = minet
+	url = https://github.com/youralien/minet
